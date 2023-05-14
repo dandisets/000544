@@ -35,8 +35,8 @@ assetsSummary:
   - BehavioralTimeSeries
   - Units
   - ElectrodeGroup
-citation: Bakshi, Kushal (2023) Test Dataset (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000544/draft
+citation: Bakshi, Kushal (2023) Test Dataset (Version 0.230514.1148) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.000544/0.230514.1148
 contributor:
 - affiliation: []
   email: kushal.bakshi@datajoint.com
@@ -48,12 +48,13 @@ contributor:
 dateCreated: '2023-05-14T11:40:20.181078+00:00'
 datePublished: '2023-05-14T11:48:37.072939+00:00'
 description: Test dataset for DataJoint uploads to DANDI
-id: DANDI:000544/draft
+doi: 10.48324/dandi.000544/0.230514.1148
+id: DANDI:000544/0.230514.1148
 identifier: DANDI:000544
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000544/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000544/0.230514.1148/assets.yaml
 name: Test Dataset
 publishedBy:
   endDate: '2023-05-14T11:48:37.072939+00:00'
@@ -70,5 +71,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
-url: https://dandiarchive.org/dandiset/000544/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000544/0.230514.1148
+version: 0.230514.1148
